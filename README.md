@@ -1,3 +1,5 @@
+![image](https://github.com/Intellifusion-research/LCNT/blob/main/Figures/framework.png)
+
 # LCNT
 
 LCNT is a feature vector compression model for accelerating approximate nearest neighbor search. It can significantly recude the time cost of index construction and query latency without sacrificing search accuracy. This code in implemented in Pytorch 1.2.0. 
