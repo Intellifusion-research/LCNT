@@ -17,9 +17,9 @@ lot of fast ANNS approaches have been proposed. Among these approaches, graph-ba
 
 ![image](https://github.com/Intellifusion-research/LCNT/blob/main/Results/Table%201.png)
 
-![image](https://github.com/Intellifusion-research/LCNT/blob/main/Results/Table%201.png)
+![image](https://github.com/Intellifusion-research/LCNT/blob/main/Results/Table%202.png)
 
-![image](https://github.com/Intellifusion-research/LCNT/blob/main/Results/Table%201.png)
+![image](https://github.com/Intellifusion-research/LCNT/blob/main/Results/Table%203.png)
 
 
 
