@@ -6,7 +6,7 @@ LCNT is a feature vector compression model for accelerating approximate nearest 
 
 Code will be released soon.
 
-Paper: [Learnable Compression Network with Transformer for Approximate Nearest Neighbor Search](https://arxiv.org/search/?query=haokui+zhang&searchtype=all&source=header)
+Paper: [Learnable Compression Network with Transformer for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2107.14415)
 
 # Abstract
 
